@@ -1,0 +1,506 @@
+[
+    {
+        "year": 2020,
+        "month": "Month 01",
+        "inflation_rate_yoy": 3.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 02",
+        "inflation_rate_yoy": 4.1,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 03",
+        "inflation_rate_yoy": 3.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 04",
+        "inflation_rate_yoy": 2.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 05",
+        "inflation_rate_yoy": 3.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 06",
+        "inflation_rate_yoy": 3.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 07",
+        "inflation_rate_yoy": 3.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 08",
+        "inflation_rate_yoy": 3.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 09",
+        "inflation_rate_yoy": 3.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 10",
+        "inflation_rate_yoy": 3.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 11",
+        "inflation_rate_yoy": 3.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2020,
+        "month": "Month 12",
+        "inflation_rate_yoy": 3.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 01",
+        "inflation_rate_yoy": 3.6,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 02",
+        "inflation_rate_yoy": 3.6,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 03",
+        "inflation_rate_yoy": 4.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 04",
+        "inflation_rate_yoy": 5.1,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 05",
+        "inflation_rate_yoy": 4.6,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 06",
+        "inflation_rate_yoy": 4.1,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 07",
+        "inflation_rate_yoy": 4.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 08",
+        "inflation_rate_yoy": 5.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 09",
+        "inflation_rate_yoy": 5.6,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 10",
+        "inflation_rate_yoy": 6.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 11",
+        "inflation_rate_yoy": 7.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2021,
+        "month": "Month 12",
+        "inflation_rate_yoy": 8.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 01",
+        "inflation_rate_yoy": 8.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 02",
+        "inflation_rate_yoy": 8.1,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 03",
+        "inflation_rate_yoy": 10.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 04",
+        "inflation_rate_yoy": 11.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 05",
+        "inflation_rate_yoy": 12.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 06",
+        "inflation_rate_yoy": 14.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 07",
+        "inflation_rate_yoy": 14.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 08",
+        "inflation_rate_yoy": 14.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 09",
+        "inflation_rate_yoy": 15.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 10",
+        "inflation_rate_yoy": 16.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 11",
+        "inflation_rate_yoy": 16.1,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2022,
+        "month": "Month 12",
+        "inflation_rate_yoy": 15.3,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 01",
+        "inflation_rate_yoy": 15.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 02",
+        "inflation_rate_yoy": 17.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 03",
+        "inflation_rate_yoy": 15.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 04",
+        "inflation_rate_yoy": 14.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 05",
+        "inflation_rate_yoy": 12.5,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 06",
+        "inflation_rate_yoy": 11.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 07",
+        "inflation_rate_yoy": 10.3,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 08",
+        "inflation_rate_yoy": 9.5,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 09",
+        "inflation_rate_yoy": 7.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 10",
+        "inflation_rate_yoy": 6.3,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 11",
+        "inflation_rate_yoy": 6.3,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2023,
+        "month": "Month 12",
+        "inflation_rate_yoy": 6.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 01",
+        "inflation_rate_yoy": 4.5,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 02",
+        "inflation_rate_yoy": 3.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 03",
+        "inflation_rate_yoy": 2.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 04",
+        "inflation_rate_yoy": 3.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 05",
+        "inflation_rate_yoy": 2.8,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 06",
+        "inflation_rate_yoy": 2.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 07",
+        "inflation_rate_yoy": 4.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 08",
+        "inflation_rate_yoy": 4.0,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 09",
+        "inflation_rate_yoy": 4.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 10",
+        "inflation_rate_yoy": 4.2,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 11",
+        "inflation_rate_yoy": 3.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2024,
+        "month": "Month 12",
+        "inflation_rate_yoy": 3.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 01",
+        "inflation_rate_yoy": 4.3,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 02",
+        "inflation_rate_yoy": 4.3,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 03",
+        "inflation_rate_yoy": 4.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 04",
+        "inflation_rate_yoy": 3.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 05",
+        "inflation_rate_yoy": 3.5,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 06",
+        "inflation_rate_yoy": 3.4,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 07",
+        "inflation_rate_yoy": 2.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 08",
+        "inflation_rate_yoy": 2.7,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 09",
+        "inflation_rate_yoy": 2.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 10",
+        "inflation_rate_yoy": 2.9,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 11",
+        "inflation_rate_yoy": 2.6,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    },
+    {
+        "year": 2025,
+        "month": "Month 12",
+        "inflation_rate_yoy": 2.5,
+        "country": "Poland",
+        "source": "Eurostat (HICP)"
+    }
+]
